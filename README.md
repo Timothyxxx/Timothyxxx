@@ -10,4 +10,4 @@
 - 📫 How to reach me: tianbaoxie@ir.hit.edu.cn
 - ⚡ Fun fact: Still love life after knowing the essence of it .:)
 
-[![Timothyxxx's github stats](https://github-readme-stats.vercel.app/api?username=Timothyxxx)](https://github.com/anuraghazra/github-readme-stats)
+[![Timothyxxx's github stats](https://github-readme-stats.vercel.app/api?username=Timothyxxx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
