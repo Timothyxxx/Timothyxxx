@@ -4,8 +4,8 @@
 **Timothyxxx**
 
 
-- 🔭 I’m currently working on a survey in SLU,while fixing parameters for some experiment.
-- 🤔 I’m looking for help with aids in vocabulary.
+- 🔭 I've recently finished a survey in SLU. Currently working on a dataset. 
+- 🤔 I’m also working on improving my vocabulary.
 - 💬 Ask me about anything u like.
 - 📫 How to reach me: tianbaoxie@ir.hit.edu.cn
 - ⚡ Fun fact: Still love life after knowing the essence of it .:)
